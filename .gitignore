@@ -5,7 +5,7 @@ __pycache__/
 
 #vscode files
 .vscode/
-data.csv
+*.csv
 
 #zip
 *.zip
@@ -147,3 +147,4 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+test_set.csv train_set.csv
