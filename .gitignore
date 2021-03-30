@@ -16,6 +16,10 @@ __pycache__/
 *.gif
 # C extensions
 *.so
+*.pt
+
+#checkpoints
+runs/
 
 # Distribution / packaging
 .Python
